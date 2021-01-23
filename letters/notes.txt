@@ -1,0 +1,15 @@
+Target:
+f1 - macro of 0.95%
+
+1st try:
+SVM, C=1, linear kernel - TO SLOW
+
+2nd try:
+SGD-SVM
+OverFitting - Accuracy and cross validations scores are off
+
+
+what should play with:
+= kernel
+- C?
+
